@@ -15,3 +15,8 @@ Reverse engineering code, taking snippets and adjusting them to do what I want, 
 
 Also ***KEEP THE CONSOLE OPEN TO DEBUG!***
 ***USE CONSOLE LOG OUTPUTS CONSTANTLY!***
+
+# Day3 of JS
+
+The JS part is slowly gettin nice, I still spent way too long styling, but I am trying to hold on to the advice I got, that the function has to be established before designing.
+Fuck forms anyway.
